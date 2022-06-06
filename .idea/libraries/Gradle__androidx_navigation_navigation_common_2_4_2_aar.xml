@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-common:2.4.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e5695900937b54f893af4c4a3fb3b1e1/transformed/navigation-common-2.4.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e5695900937b54f893af4c4a3fb3b1e1/transformed/navigation-common-2.4.2/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e5695900937b54f893af4c4a3fb3b1e1/transformed/navigation-common-2.4.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2ae1ff5c75cef62cd7a443a14b45e016/transformed/navigation-common-2.4.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2ae1ff5c75cef62cd7a443a14b45e016/transformed/navigation-common-2.4.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2ae1ff5c75cef62cd7a443a14b45e016/transformed/navigation-common-2.4.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

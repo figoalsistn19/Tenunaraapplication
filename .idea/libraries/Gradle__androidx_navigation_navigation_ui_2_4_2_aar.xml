@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-ui:2.4.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6cfc41c21ea70c4ac44aed7b5050c4cc/transformed/navigation-ui-2.4.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6cfc41c21ea70c4ac44aed7b5050c4cc/transformed/navigation-ui-2.4.2/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6cfc41c21ea70c4ac44aed7b5050c4cc/transformed/navigation-ui-2.4.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/641d5c378ddfe7bd8406c9bd81719195/transformed/navigation-ui-2.4.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/641d5c378ddfe7bd8406c9bd81719195/transformed/navigation-ui-2.4.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/641d5c378ddfe7bd8406c9bd81719195/transformed/navigation-ui-2.4.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

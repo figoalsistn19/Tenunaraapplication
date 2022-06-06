@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/eca27b7a53896f6d8155254218494b91/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/eca27b7a53896f6d8155254218494b91/transformed/lifecycle-viewmodel-compose-2.4.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/eca27b7a53896f6d8155254218494b91/transformed/lifecycle-viewmodel-compose-2.4.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ac57123015e0cca62a6924086c972b75/transformed/lifecycle-viewmodel-compose-2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ac57123015e0cca62a6924086c972b75/transformed/lifecycle-viewmodel-compose-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ac57123015e0cca62a6924086c972b75/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

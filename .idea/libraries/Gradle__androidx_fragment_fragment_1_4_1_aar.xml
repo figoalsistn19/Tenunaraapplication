@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.fragment:fragment:1.4.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/8ba4ab9513ce5502198f2983bccfce15/transformed/fragment-1.4.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/c8cf684ae8a92ec21dee87e5d890d011/transformed/fragment-1.4.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/8ba4ab9513ce5502198f2983bccfce15/transformed/fragment-1.4.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/8ba4ab9513ce5502198f2983bccfce15/transformed/fragment-1.4.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/8ba4ab9513ce5502198f2983bccfce15/transformed/fragment-1.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/c8cf684ae8a92ec21dee87e5d890d011/transformed/fragment-1.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/c8cf684ae8a92ec21dee87e5d890d011/transformed/fragment-1.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/c8cf684ae8a92ec21dee87e5d890d011/transformed/fragment-1.4.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

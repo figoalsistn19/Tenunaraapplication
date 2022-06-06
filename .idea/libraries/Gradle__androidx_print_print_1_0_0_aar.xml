@@ -1,15 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.print:print:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d74f4f7767c37d51c1a174dfdfb518fc/transformed/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6b1f4da0295f00fefd5c889ab3261563/transformed/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dac75997baee3ec83996042cbb3fece3/transformed/print-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/dac75997baee3ec83996042cbb3fece3/transformed/print-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/7698f2ed63f892cad15bca97252f919e/transformed/print-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d74f4f7767c37d51c1a174dfdfb518fc/transformed/print-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d74f4f7767c37d51c1a174dfdfb518fc/transformed/print-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d74f4f7767c37d51c1a174dfdfb518fc/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6b1f4da0295f00fefd5c889ab3261563/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6b1f4da0295f00fefd5c889ab3261563/transformed/print-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6b1f4da0295f00fefd5c889ab3261563/transformed/print-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

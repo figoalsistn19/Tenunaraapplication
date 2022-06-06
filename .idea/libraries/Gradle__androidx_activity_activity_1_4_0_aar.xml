@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.activity:activity:1.4.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f229ec29fe6745fcfb09b690bc56a033/transformed/activity-1.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9f36a7f2e1da4231a1dc2989f76f65f0/transformed/activity-1.4.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f229ec29fe6745fcfb09b690bc56a033/transformed/activity-1.4.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f229ec29fe6745fcfb09b690bc56a033/transformed/activity-1.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f229ec29fe6745fcfb09b690bc56a033/transformed/activity-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9f36a7f2e1da4231a1dc2989f76f65f0/transformed/activity-1.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9f36a7f2e1da4231a1dc2989f76f65f0/transformed/activity-1.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9f36a7f2e1da4231a1dc2989f76f65f0/transformed/activity-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

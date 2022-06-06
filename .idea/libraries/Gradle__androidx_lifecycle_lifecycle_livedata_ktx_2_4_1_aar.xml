@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.4.1@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d8197176cbe704054a99c1d53218c14d/transformed/lifecycle-livedata-ktx-2.4.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d8197176cbe704054a99c1d53218c14d/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d8197176cbe704054a99c1d53218c14d/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

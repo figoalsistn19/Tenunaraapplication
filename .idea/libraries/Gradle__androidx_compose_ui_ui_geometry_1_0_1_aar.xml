@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui-geometry:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2e7e1666814e1f9556fff4879b1368fa/transformed/ui-geometry-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2e7e1666814e1f9556fff4879b1368fa/transformed/ui-geometry-1.0.1/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2e7e1666814e1f9556fff4879b1368fa/transformed/ui-geometry-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ca2ef5c3db71bd6e4f2727f184eefa21/transformed/ui-geometry-1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ca2ef5c3db71bd6e4f2727f184eefa21/transformed/ui-geometry-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ca2ef5c3db71bd6e4f2727f184eefa21/transformed/ui-geometry-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

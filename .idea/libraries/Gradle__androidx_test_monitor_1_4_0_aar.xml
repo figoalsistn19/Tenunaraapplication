@@ -5,8 +5,9 @@
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/ec0fdb666f00796f52448fd05dd1950a/transformed/monitor-1.4.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9b161c76e5322a5a9be891af42e4a262/transformed/monitor-1.4.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b07e2ad5fd8bacf79f10068ec8d841a1/transformed/monitor-1.4.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b07e2ad5fd8bacf79f10068ec8d841a1/transformed/monitor-1.4.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b07e2ad5fd8bacf79f10068ec8d841a1/transformed/monitor-1.4.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9b334e40f37b1d11d144b18f63d3037e/transformed/monitor-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9b334e40f37b1d11d144b18f63d3037e/transformed/monitor-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/9b334e40f37b1d11d144b18f63d3037e/transformed/monitor-1.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/2770e38fa6d39242c2fa2e9d2ca3275b1d9debd8/monitor-1.4.0-javadoc.jar!/" />
