@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-auth:8.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/79db07ef90692de3e52c430a5840c747/transformed/firebase-ui-auth-8.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/79db07ef90692de3e52c430a5840c747/transformed/firebase-ui-auth-8.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/79db07ef90692de3e52c430a5840c747/transformed/firebase-ui-auth-8.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/79db07ef90692de3e52c430a5840c747/transformed/firebase-ui-auth-8.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/8.0.0/16e7539931ec5dbc9b6aee5b6b5e868be5be99cb/firebase-ui-auth-8.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/8.0.0/66425615e7e0dd775b163d504a50cb4a5bb69273/firebase-ui-auth-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

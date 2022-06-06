@@ -4,9 +4,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7c5340ddb03e49d20c4a5037e3b66454/transformed/viewbinding-7.1.2/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/7c5340ddb03e49d20c4a5037e3b66454/transformed/viewbinding-7.1.2/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/c5f105cb2b644fc2f9e74f43fd17d627/transformed/viewbinding-7.1.2/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/31cb166b559b5bee33ce568e8bc91a5a/transformed/viewbinding-7.1.2/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/31cb166b559b5bee33ce568e8bc91a5a/transformed/viewbinding-7.1.2/res" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/31cb166b559b5bee33ce568e8bc91a5a/transformed/viewbinding-7.1.2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b431ba9864dab80d3fc80324ebcf58c3/transformed/viewbinding-7.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b431ba9864dab80d3fc80324ebcf58c3/transformed/viewbinding-7.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b431ba9864dab80d3fc80324ebcf58c3/transformed/viewbinding-7.1.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

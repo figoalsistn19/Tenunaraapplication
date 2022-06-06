@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.fragment:fragment-ktx:1.4.1@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bf9bcde850050991ec3887d616a3aa99/transformed/fragment-ktx-1.4.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bf9bcde850050991ec3887d616a3aa99/transformed/fragment-ktx-1.4.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bf9bcde850050991ec3887d616a3aa99/transformed/fragment-ktx-1.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bd90e14b856e039e1f1ae9ee6dc7108e/transformed/fragment-ktx-1.4.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bd90e14b856e039e1f1ae9ee6dc7108e/transformed/fragment-ktx-1.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/bd90e14b856e039e1f1ae9ee6dc7108e/transformed/fragment-ktx-1.4.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

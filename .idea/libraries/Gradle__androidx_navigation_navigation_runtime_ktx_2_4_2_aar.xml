@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-runtime-ktx:2.4.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e6d63941cbd030a44c4a8752873af905/transformed/navigation-runtime-ktx-2.4.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e6d63941cbd030a44c4a8752873af905/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e6d63941cbd030a44c4a8752873af905/transformed/navigation-runtime-ktx-2.4.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5eaed9b596f9fd2970979a6fdd090d2d/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5eaed9b596f9fd2970979a6fdd090d2d/transformed/navigation-runtime-ktx-2.4.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5eaed9b596f9fd2970979a6fdd090d2d/transformed/navigation-runtime-ktx-2.4.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

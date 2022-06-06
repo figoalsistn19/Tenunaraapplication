@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui-graphics:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44368859c292d31eb0b9cb6aaebe3610/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44368859c292d31eb0b9cb6aaebe3610/transformed/ui-graphics-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44368859c292d31eb0b9cb6aaebe3610/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

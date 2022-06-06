@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.camera:camera-camera2:1.2.0-alpha02@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a5592bd65919238a784647c3d42be5f2/transformed/camera-camera2-1.2.0-alpha02/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/dcf82ba41690058c6abdecb3423f842f/transformed/camera-camera2-1.2.0-alpha02/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a5592bd65919238a784647c3d42be5f2/transformed/camera-camera2-1.2.0-alpha02/res" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a5592bd65919238a784647c3d42be5f2/transformed/camera-camera2-1.2.0-alpha02/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a5592bd65919238a784647c3d42be5f2/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/dcf82ba41690058c6abdecb3423f842f/transformed/camera-camera2-1.2.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/dcf82ba41690058c6abdecb3423f842f/transformed/camera-camera2-1.2.0-alpha02/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/dcf82ba41690058c6abdecb3423f842f/transformed/camera-camera2-1.2.0-alpha02/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

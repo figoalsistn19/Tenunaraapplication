@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui-unit:1.0.1@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d5d016ace30d4f9d0a1d0c20cd19b73e/transformed/ui-unit-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d5d016ace30d4f9d0a1d0c20cd19b73e/transformed/ui-unit-1.0.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/d5d016ace30d4f9d0a1d0c20cd19b73e/transformed/ui-unit-1.0.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44e9037bdb9941e1bceb3ab0f2787e03/transformed/ui-unit-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44e9037bdb9941e1bceb3ab0f2787e03/transformed/ui-unit-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/44e9037bdb9941e1bceb3ab0f2787e03/transformed/ui-unit-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -9,10 +9,16 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.tenunaraapplication.databinding.ActivityLoginBinding
 import com.example.tenunaraapplication.main.ui.MainActivity
 import com.example.tenunaraapplication.register.ActivityRegister
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 class ActivityLogin : AppCompatActivity() {
 
     private lateinit var bindingLogin: ActivityLoginBinding
+    private lateinit var auth: FirebaseAuth
+
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,6 +26,8 @@ class ActivityLogin : AppCompatActivity() {
         setContentView(bindingLogin.root)
 
         setupView()
+
+        auth = Firebase.auth
 
         bindingLogin.tvSignupIntent.setOnClickListener {
             val intent = Intent(this@ActivityLogin, ActivityRegister::class.java)
@@ -31,6 +39,8 @@ class ActivityLogin : AppCompatActivity() {
             startActivity(intent)
         }
     }
+
+
 
     private fun setupView() {
         @Suppress("DEPRECATION")
