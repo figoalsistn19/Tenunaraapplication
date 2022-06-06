@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.tenunaraapplication.main.ui.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" >
+        <argument
+            android:name="token"
+            android:defaultValue=""
+            app:argType="string" />
+        <action
+            android:id="@+id/action_navigation_home_to_topWeeklyFragment"
+            app:destination="@id/topWeeklyFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_home_to_cameraActivity"
+            app:destination="@id/cameraActivity"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_home_to_historyScanActivity"
+            app:destination="@id/historyScanActivity"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_home_to_findTenunShopMapsActivity"
+            app:destination="@id/findTenunShopMapsActivity" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_explore"
+        android:name="com.example.tenunaraapplication.main.ui.ui.explore.ExploreFragment"
+        android:label="Explore"
+        tools:layout="@layout/fragment_explore" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.tenunaraapplication.main.ui.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_navigation_profile_to_profileEditFragment"
+            app:destination="@id/profileEditFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_profile_to_settingFragment"
+            app:destination="@id/settingFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_profile_to_activityLogin"
+            app:destination="@id/activityLogin"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/topWeeklyFragment"
+        android:name="com.example.tenunaraapplication.main.ui.ui.topweekly.TopWeeklyFragment"
+        android:label="fragment_top_weekly"
+        tools:layout="@layout/fragment_top_weekly" >
+    <argument
+        android:name="token"
+        android:defaultValue=""
+        app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileEditFragment"
+        android:name="com.example.tenunaraapplication.main.ui.ui.profile.ProfileEditFragment"
+        android:label="fragment_profile_edit"
+        tools:layout="@layout/fragment_profile_edit" />
+    <activity
+        android:id="@+id/cameraActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.camera.CameraActivity"
+        android:label="activity_camera"
+        tools:layout="@layout/activity_camera" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.tenunaraapplication.main.ui.ui.setting.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+    <activity
+        android:id="@+id/activityLogin"
+        android:name="com.example.tenunaraapplication.login.ActivityLogin"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <activity
+        android:id="@+id/historyScanActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.history.HistoryScanActivity"
+        android:label="activity_history_scan"
+        tools:layout="@layout/activity_history_scan" />
+    <activity
+        android:id="@+id/findTenunShopMapsActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.FindTenunShopMapsActivity"
+        android:label="activity_find_tenun_shop_maps"
+        tools:layout="@layout/activity_find_tenun_shop_maps" />
+</navigation>

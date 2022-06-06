@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main"
+    tools:context=".main.ui.ScanFailedFragment">
+
+    <ImageView
+        android:id="@+id/btn_back"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:src="@drawable/ic_backk"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.25"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/tv_edt_pass"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/Scan"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:fontFamily="@font/ibmplexsansthailooped_semibold"
+        app:layout_constraintStart_toEndOf="@id/btn_back"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="325dp"
+        android:layout_height="524dp"
+        android:background="@drawable/bg_scan"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/ic_failed" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="72dp"
+            android:layout_marginTop="24dp"
+            android:fontFamily="@font/ibmplexsans_bold"
+            android:text="@string/failed_identified" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginEnd="26dp"
+            android:fontFamily="@font/ibmplexsansthailooped_semibold"
+            android:text="@string/desc_failed"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="129dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/ibmplexsans_medium"
+            android:text="@string/desc_failed2"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/postButton"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="86dp"
+            android:layout_marginEnd="32dp"
+            android:backgroundTint="@color/white"
+            android:fontFamily="@font/ibmplexsans_medium"
+            android:text="@string/try_again"
+            android:textColor="@color/blue"
+            app:strokeColor="@color/blue"
+            app:strokeWidth="2dp" />
+
+    </LinearLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F0F2F5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

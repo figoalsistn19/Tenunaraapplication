@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84778865931",
+    "firebase_url": "https://tenunara-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tenunara",
+    "storage_bucket": "tenunara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84778865931:android:f20156f4f2cc591e59fe0e",
+        "android_client_info": {
+          "package_name": "com.example.tenunaraapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84778865931-t83vnstb1mrkddn9aj01o5a44a496hf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA05Fyz0U4o1ES8cdhNcfLwlEZpmuOiq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84778865931-t83vnstb1mrkddn9aj01o5a44a496hf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

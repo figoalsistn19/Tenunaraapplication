@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginStart="12dp"
+    android:layout_marginEnd="11dp"
+    android:layout_marginTop="22dp">
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bg_scan"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginTop="22dp"
+        tools:ignore="MissingConstraints">
+
+    <LinearLayout
+        android:id="@+id/ll_first"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/top_number"
+            android:fontFamily="@font/ibmplexsansthailooped_semibold"
+            android:textSize="16sp"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="11dp" />
+
+        <TextView
+            android:id="@+id/name_tenun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/name_tenun"
+            android:fontFamily="@font/ibmplexsans_regular"
+            android:textSize="16sp"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="11dp"/>
+    </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:srcCompat="@drawable/preview"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="19dp"
+            android:layout_marginEnd="19dp"/>
+
+        <LinearLayout
+            android:id="@+id/ll_second"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/like"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/likes"
+                android:fontFamily="@font/ibmplexsans_light"
+                android:textSize="16sp"
+                android:textColor="@color/blue"
+                android:layout_marginStart="11dp"
+                android:layout_marginTop="17dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/see_photos"
+                android:fontFamily="@font/ibmplexsans_regular"
+                android:textSize="16sp"
+                android:textColor="@color/blue"
+                android:layout_marginTop="17dp"
+                android:layout_marginStart="180dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

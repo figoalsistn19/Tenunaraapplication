@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_logout_24.xml" value="0.1935" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_settings_24.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_trash.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/customcardview.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_back.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_backk.xml" value="0.3455" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_backk_2.xml" value="0.3455" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_bx_search_alt.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_telephone.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_telephone__1_.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/shadow_background.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_camera.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_history_scan.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_onboarding.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_splashscreen.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_explore.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_history_scann.xml" value="0.1" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_password_edit.xml" value="0.25" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_profile.xml" value="0.5" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_profile_edit.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_scan_failed.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_scan_success.xml" value="0.25" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_top_weekly.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/item_history.xml" value="0.33" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/figo_/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_history_scann.xml" value="0.4" />
+        <entry key="..\:/Users/figo_/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/figo_/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_profile_edit.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

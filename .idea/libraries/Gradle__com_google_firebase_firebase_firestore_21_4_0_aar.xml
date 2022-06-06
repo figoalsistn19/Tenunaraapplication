@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:21.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/2fa0084507d1f6ac5e61daee9703f13e/transformed/firebase-firestore-21.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e0670c6c8e1f24546491b56af880c3ce/transformed/firebase-firestore-21.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e0670c6c8e1f24546491b56af880c3ce/transformed/firebase-firestore-21.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e0670c6c8e1f24546491b56af880c3ce/transformed/firebase-firestore-21.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/21.4.0/b0a586ff4e3d796269f96166681632517ea85611/firebase-firestore-21.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/21.4.0/81f7a0a5b6015f5fb0a560747077d3df5c6d4c15/firebase-firestore-21.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
