@@ -2,15 +2,20 @@
   <library name="Gradle: androidx.camera:camera-view:1.2.0-alpha02@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b79f3f1ce77c5bc490984eaa756a8272/transformed/camera-view-1.2.0-alpha02/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/androidx.camera/camera-view/1.2.0-alpha02/c2d6a8a9cefcc973528ebd1aa0a39341dd643cd6/camera-view-1.2.0-alpha02-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-view/1.2.0-alpha02/c2d6a8a9cefcc973528ebd1aa0a39341dd643cd6/camera-view-1.2.0-alpha02-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

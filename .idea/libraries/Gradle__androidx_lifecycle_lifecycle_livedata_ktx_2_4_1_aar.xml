@@ -4,10 +4,14 @@
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e25968e77ecf106b1a5ded93f9b91d24/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-ktx/2.4.1/4aa2db934fc7bfa0f648f1ddee7fd2a436d7712c/lifecycle-livedata-ktx-2.4.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-ktx/2.4.1/4aa2db934fc7bfa0f648f1ddee7fd2a436d7712c/lifecycle-livedata-ktx-2.4.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
