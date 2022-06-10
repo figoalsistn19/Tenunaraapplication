@@ -25,8 +25,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-7" />
-                            <option name="y" value="701" />
+                            <option name="x" value="210" />
+                            <option name="y" value="692" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -39,6 +39,18 @@
                           <Point>
                             <option name="x" value="-640" />
                             <option name="y" value="564" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="findTenunTrainingMapsActivity">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-579" />
+                            <option name="y" value="102" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -79,12 +91,22 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_navigation_home_to_cameraActivity">
+                            <entry key="action_navigation_home_to_findTenunShopMapsActivity">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_navigation_home_to_findTenunTrainingMapsActivity">
                               <value>
                                 <LayoutPositions />
                               </value>
                             </entry>
                             <entry key="action_navigation_home_to_historyScanActivity">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_navigation_home_to_scanWovenFabricActivity">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -137,6 +159,18 @@
                           <Point>
                             <option name="x" value="500" />
                             <option name="y" value="-166" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="scanWovenFabricActivity">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-79" />
+                            <option name="y" value="613" />
                           </Point>
                         </option>
                       </LayoutPositions>

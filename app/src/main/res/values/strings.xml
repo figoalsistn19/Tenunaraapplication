@@ -118,4 +118,5 @@
     <string name="setting">Setting</string>
     <string name="logout">Logout</string>
     <string name="title_activity_find_tenun_shop_maps">FindTenunShopMapsActivity</string>
+    <string name="title_activity_find_tenun_training_maps">FindTenunTrainingMapsActivity</string>
 </resources>

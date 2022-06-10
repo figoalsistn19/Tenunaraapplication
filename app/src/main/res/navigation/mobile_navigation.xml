@@ -20,11 +20,6 @@
             app:enterAnim="@anim/nav_default_enter_anim"
             app:exitAnim="@anim/nav_default_exit_anim" />
         <action
-            android:id="@+id/action_navigation_home_to_cameraActivity"
-            app:destination="@id/cameraActivity"
-            app:enterAnim="@anim/nav_default_enter_anim"
-            app:exitAnim="@anim/nav_default_exit_anim" />
-        <action
             android:id="@+id/action_navigation_home_to_historyScanActivity"
             app:destination="@id/historyScanActivity"
             app:enterAnim="@anim/nav_default_enter_anim"
@@ -32,6 +27,12 @@
         <action
             android:id="@+id/action_navigation_home_to_findTenunShopMapsActivity"
             app:destination="@id/findTenunShopMapsActivity" />
+        <action
+            android:id="@+id/action_navigation_home_to_findTenunTrainingMapsActivity"
+            app:destination="@id/findTenunTrainingMapsActivity" />
+        <action
+            android:id="@+id/action_navigation_home_to_scanWovenFabricActivity"
+            app:destination="@id/scanWovenFabricActivity" />
     </fragment>
 
     <fragment
@@ -76,11 +77,6 @@
         android:name="com.example.tenunaraapplication.main.ui.ui.profile.ProfileEditFragment"
         android:label="fragment_profile_edit"
         tools:layout="@layout/fragment_profile_edit" />
-    <activity
-        android:id="@+id/cameraActivity"
-        android:name="com.example.tenunaraapplication.main.ui.ui.camera.CameraActivity"
-        android:label="activity_camera"
-        tools:layout="@layout/activity_camera" />
     <fragment
         android:id="@+id/settingFragment"
         android:name="com.example.tenunaraapplication.main.ui.ui.setting.SettingFragment"
@@ -101,4 +97,19 @@
         android:name="com.example.tenunaraapplication.main.ui.ui.FindTenunShopMapsActivity"
         android:label="activity_find_tenun_shop_maps"
         tools:layout="@layout/activity_find_tenun_shop_maps" />
+    <activity
+        android:id="@+id/findTenunTrainingMapsActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.FindTenunTrainingMapsActivity"
+        android:label="activity_find_tenun_training_maps"
+        tools:layout="@layout/activity_find_tenun_training_maps" />
+    <activity
+        android:id="@+id/scanWovenFabricActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.scanwoven.ScanWovenFabricActivity"
+        android:label="activity_scan_woven_fabric"
+        tools:layout="@layout/activity_scan_woven_fabric" />
+    <activity
+        android:id="@+id/cameraActivity"
+        android:name="com.example.tenunaraapplication.main.ui.ui.camera.CameraActivity"
+        android:label="activity_camera"
+        tools:layout="@layout/activity_camera" />
 </navigation>

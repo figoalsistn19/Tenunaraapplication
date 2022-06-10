@@ -43,7 +43,11 @@ class HomeFragment : Fragment() {
         }
 
         binding.scanwovenfabrics.setOnClickListener {
-            view?.findNavController()?.navigate(R.id.action_navigation_home_to_cameraActivity)
+            view?.findNavController()?.navigate(R.id.action_navigation_home_to_scanWovenFabricActivity)
+        }
+
+        binding.findtenuntraining.setOnClickListener {
+            view?.findNavController()?.navigate(R.id.action_navigation_home_to_findTenunTrainingMapsActivity)
         }
 
         return root

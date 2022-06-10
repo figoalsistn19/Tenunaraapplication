@@ -17,6 +17,14 @@
             android:value="AIzaSyDpHKz39n41sYt6pimxQLOg5-5GwXmwJMk" />
 
         <activity
+            android:name=".main.ui.ui.scanwoven.ScanWovenFabricActivity"
+            android:exported="false"/>
+
+        <activity
+            android:name=".main.ui.ui.FindTenunTrainingMapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_find_tenun_training_maps" />
+        <activity
             android:name=".main.ui.ui.FindTenunShopMapsActivity"
             android:exported="false"
             android:label="@string/title_activity_find_tenun_shop_maps" />

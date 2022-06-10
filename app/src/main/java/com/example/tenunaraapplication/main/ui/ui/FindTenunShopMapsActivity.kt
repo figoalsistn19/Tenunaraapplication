@@ -41,10 +41,9 @@ class FindTenunShopMapsActivity : AppCompatActivity(), OnMapReadyCallback {
         mMap.uiSettings.isCompassEnabled = true
         mMap.uiSettings.isMapToolbarEnabled = true
 
-        // Add a marker in Sydney and move the camera
-        val tangerang = LatLng(-6.242484,106.626592)
-        mMap.addMarker(MarkerOptions().position(tangerang).title("Marker in Summarecon"))
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(tangerang))
+        val semara = LatLng(-8.47752813290981, 115.56657183379677)
+        mMap.addMarker(MarkerOptions().position(semara).title("Semara Shop"))
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(semara))
 
         val tunjungBiruTenunPagringsingan = LatLng(-8.475362655634173, 115.56677156140496)
         mMap.addMarker(MarkerOptions().position(tunjungBiruTenunPagringsingan).title("Tunjung Biru Tenun Pagringsingan"))
