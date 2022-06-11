@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:gifdecoder:4.13.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6d2223487e7fd813918a7445f533ce9b/transformed/gifdecoder-4.13.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6d2223487e7fd813918a7445f533ce9b/transformed/gifdecoder-4.13.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6d2223487e7fd813918a7445f533ce9b/transformed/gifdecoder-4.13.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/6d2223487e7fd813918a7445f533ce9b/transformed/gifdecoder-4.13.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.13.2/1fe15a9a284b3a9c874106b343b5ebc74987abd8/gifdecoder-4.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.13.2/2b4278f4c392093c061d75e60c0eeee5bd0fa2a/gifdecoder-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-support:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a6c21630dd12214fb86feac5605ed9ff/transformed/tensorflow-lite-support-0.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a6c21630dd12214fb86feac5605ed9ff/transformed/tensorflow-lite-support-0.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/a6c21630dd12214fb86feac5605ed9ff/transformed/tensorflow-lite-support-0.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

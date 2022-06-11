@@ -12,4 +12,6 @@
     <color name="soft_black">#3A3030</color>
     <color name="black_2">#3A3030</color>
     <color name="gray">#e2e2e2</color>
+    <color name="orange">#ffbc40</color>
+    <color name="red">#ff0000</color>
 </resources>

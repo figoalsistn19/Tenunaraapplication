@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.coil-kt:coil-base:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5dcd8908af3e6e9ee5dd75bc7743c72c/transformed/coil-base-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5dcd8908af3e6e9ee5dd75bc7743c72c/transformed/coil-base-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/5dcd8908af3e6e9ee5dd75bc7743c72c/transformed/coil-base-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/io.coil-kt/coil-base/2.1.0/eac17711898d46a13f93fbb4be11db01cce194a4/coil-base-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/io.coil-kt/coil-base/2.1.0/9022e063c783416fa1c2935ed8e7863278a2d635/coil-base-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
