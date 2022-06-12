@@ -128,4 +128,7 @@
     <string name="title_activity_find_tenun_training_maps">Find Tenun Training</string>
     <string name="gallery">Gallery</string>
     <string name="by_tenunara">By Tenunara</string>
+
+    <string name="fail_take_picture">Fail to take picture</string>
+    <string name="fail_show_camera">Fail to show camera</string>
 </resources>

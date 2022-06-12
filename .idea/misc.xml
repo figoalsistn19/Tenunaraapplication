@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_capture.xml" value="0.2225" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_logout_24.xml" value="0.1935" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_settings_24.xml" value="0.3025" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/ic_trash.xml" value="0.3025" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable-v24/shape_rectangle.xml" value="0.2225" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/customcardview.xml" value="0.3025" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_back.xml" value="0.3025" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/drawable/ic_backk.xml" value="0.3455" />
@@ -23,6 +25,7 @@
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_onboarding.xml" value="0.15670289855072464" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_register.xml" value="0.28903654485049834" />
+        <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_scan_model.xml" value="0.3463541666666667" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_scan_woven_fabric.xml" value="0.22" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/activity_splashscreen.xml" value="0.33" />
         <entry key="..\:/Users/Top 1 Streamer Indo/AndroidStudioProjects/Tenunaraapplication/TenunaraProject-figotest/app/src/main/res/layout/fragment_explore.xml" value="0.33" />
