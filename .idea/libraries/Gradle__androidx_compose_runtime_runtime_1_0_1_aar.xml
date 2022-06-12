@@ -4,10 +4,14 @@
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f572a23bd24e38552a90af9039cd6989/transformed/runtime-1.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/androidx.compose.runtime/runtime/1.0.1/c431c33253972911af37ad57b36ada1dd3c02c11/runtime-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime/1.0.1/c431c33253972911af37ad57b36ada1dd3c02c11/runtime-1.0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

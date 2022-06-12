@@ -101,6 +101,11 @@
                                 <LayoutPositions />
                               </value>
                             </entry>
+                            <entry key="action_navigation_home_to_findTenunShopMapsActivity">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_navigation_home_to_historyScanActivity">
                               <value>
                                 <LayoutPositions />
@@ -148,6 +153,18 @@
                               </value>
                             </entry>
                           </map>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="passwordEditFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="713" />
+                            <option name="y" value="-168" />
+                          </Point>
                         </option>
                       </LayoutPositions>
                     </value>

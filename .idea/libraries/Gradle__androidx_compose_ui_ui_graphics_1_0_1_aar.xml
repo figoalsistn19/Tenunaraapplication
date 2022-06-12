@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/260ad742e8fc2511fc0d87757a1fec0a/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/modules-2/files-2.1/androidx.compose.ui/ui-graphics/1.0.1/99e2112f5a1a0c64eff13c5543ba1bf1a9a3c3a3/ui-graphics-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-graphics/1.0.1/99e2112f5a1a0c64eff13c5543ba1bf1a9a3c3a3/ui-graphics-1.0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

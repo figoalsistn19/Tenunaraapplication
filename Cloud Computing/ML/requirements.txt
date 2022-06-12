@@ -1,0 +1,9 @@
+pip==21.3.1
+Flask
+gunicorn
+h5py
+Pillow
+numpy
+tensorflow
+matplotlib
+keras<2.7,>=2.6.0
