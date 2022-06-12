@@ -1,2 +1,8 @@
 # Project exclude paths
 /.gradle/
+firebase/
+model/
+node_modules/
+package.json
+package-lock.json
+progress.txt
