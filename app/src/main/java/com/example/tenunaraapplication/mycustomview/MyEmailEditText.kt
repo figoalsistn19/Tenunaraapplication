@@ -41,7 +41,7 @@ class MyEmailEditText : AppCompatEditText {
 
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
                 if (s.toString().isEmpty()) {
-                    error = context.getString(R.string.email_empaty)
+                    error = context.getString(R.string.email_empty)
                     requestFocus()
                 } else if (!s.toString().matches(emailRegex)) {
                     error = context.getString(R.string.email_warning)

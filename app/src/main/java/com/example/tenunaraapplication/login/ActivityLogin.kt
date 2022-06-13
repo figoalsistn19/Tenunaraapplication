@@ -11,6 +11,8 @@ import com.example.tenunaraapplication.databinding.ActivityLoginBinding
 import com.example.tenunaraapplication.main.ui.MainActivity
 import com.example.tenunaraapplication.register.ActivityRegister
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 
 class ActivityLogin : AppCompatActivity() {
 
@@ -24,6 +26,7 @@ class ActivityLogin : AppCompatActivity() {
 
         setupView()
 
+        auth = Firebase.auth
         auth = FirebaseAuth.getInstance()
 
         bindingLogin.tvSignupIntent.setOnClickListener {

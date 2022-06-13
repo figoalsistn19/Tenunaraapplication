@@ -4,6 +4,9 @@
       <root url="jar://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../../Gradle/bin/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/710dbad94c1435b54583735642246007/transformed/tensorflow-lite-api-2.8.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

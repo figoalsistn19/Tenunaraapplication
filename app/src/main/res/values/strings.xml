@@ -9,7 +9,7 @@
     <string name="button_login">Login</string>
     <string name="name_warning">Nama tidak boleh kosong</string>
     <string name="email_warning">Format email salah</string>
-    <string name="email_empaty">Email tidak boleh kosong</string>
+    <string name="email_empty">Email tidak boleh kosong</string>
     <string name="password_warning">Kata sandi harus memiliki minimal 6 karakter</string>
     <string name="register_success">Daftar berhasil</string>
     <string name="register_fail">Daftar gagal</string>
@@ -22,10 +22,10 @@
     <string name="login">Masuk</string>
     <string name="name">Nama</string>
     <string name="welcome_desc">
-        Kamu cari apa? \n
-        Kita bisa bantu kok…
+       What are you looking for? \n
+         We can help
     </string>
-    <string name="message_login_page">Silahkan lengkapi data anda</string>
+    <string name="message_login_page">Please complete your data</string>
     <string name="title_login_page">Welcome to Tenunara</string>
     <string name="signup">Register</string>
     <string name="title_signup_page">Fill in your personal data first</string>
@@ -80,6 +80,7 @@
     <string name="confirm">Confirm</string>
     <string name="change">Change</string>
     <string name="confirm_pass">Confirm Password</string>
+    <string name="succes_edt">Successfully updated profile</string>
 
     <!-- String on the history scan page -->
     <string name="history">History Scan</string>
@@ -91,7 +92,7 @@
     <string name="Scan">Scan Woven Fabric</string>
     <string name="succes_identified">Fabric Identified</string>
     <string name="title_woven">title woven</string>
-    <string name="desc_woven">Songket Minangkabau dikenal memiliki banyak pilihan motif yang tidak hanya menarik namun juga kaya akan makna dan filosofi.</string>
+    <string name="desc_woven">Minangkabau songket is known to have many choices of motifs that are not only interesting but also rich in meaning and philosophy.</string>
     <string name="post_woven">Post to Explore</string>
     <string name="Return">Return to Home</string>
     <string name="read_more">Read More…</string>
@@ -131,4 +132,21 @@
 
     <string name="fail_take_picture">Fail to take picture</string>
     <string name="fail_show_camera">Fail to show camera</string>
+
+    <!-- String on the about page -->
+    <string name="about">About</string>
+    <string name="general">General</string>
+    <string name="app_version">App Version</string>
+    <string name="app_version_result">1.0.0</string>
+    <string name="contributor">Contributor</string>
+    <string name="path_one">From Machine Learning</string>
+    <string name="path_two">From Mobile Development</string>
+    <string name="path_three">From Cloud Computing</string>
+    <string name="name_one">Fadjrin Diraja Muhammad</string>
+    <string name="name_two">Maulia Savana Putri</string>
+    <string name="name_three">Nadira Hanifah Nur\’aini</string>
+    <string name="name_four">Deliana Rahma Azahra</string>
+    <string name="name_five">Figo Alsistani</string>
+    <string name="name_six">Gunawan Prasetyo</string>
+
 </resources>

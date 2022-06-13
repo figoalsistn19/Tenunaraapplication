@@ -46,6 +46,10 @@
         android:name="com.example.tenunaraapplication.main.ui.ui.profile.ProfileFragment"
         android:label="Profile"
         tools:layout="@layout/fragment_profile" >
+        <argument
+            android:name="token"
+            android:defaultValue=""
+            app:argType="string" />
         <action
             android:id="@+id/action_navigation_profile_to_profileEditFragment"
             app:destination="@id/profileEditFragment"
@@ -71,17 +75,42 @@
         android:name="token"
         android:defaultValue=""
         app:argType="string" />
+        <action
+            android:id="@+id/action_topWeeklyFragment_to_navigation_home"
+            app:destination="@id/navigation_home" />
     </fragment>
+
     <fragment
         android:id="@+id/profileEditFragment"
         android:name="com.example.tenunaraapplication.main.ui.ui.profile.ProfileEditFragment"
         android:label="fragment_profile_edit"
-        tools:layout="@layout/fragment_profile_edit" />
+        tools:layout="@layout/fragment_profile_edit" >
+        <argument
+            android:name="token"
+            android:defaultValue=""
+            app:argType="string" />
+        <action
+            android:id="@+id/action_profileEditFragment_to_navigation_profile"
+            app:destination="@id/navigation_profile" />
+    </fragment>
+
     <fragment
         android:id="@+id/settingFragment"
         android:name="com.example.tenunaraapplication.main.ui.ui.setting.SettingFragment"
         android:label="fragment_setting"
-        tools:layout="@layout/fragment_setting" />
+        tools:layout="@layout/fragment_setting">
+    <argument
+        android:name="token"
+        android:defaultValue=""
+        app:argType="string" />
+    <action
+        android:id="@+id/action_settingFragment_to_navigation_profile"
+        app:destination="@id/navigation_profile" />
+    <action
+        android:id="@+id/action_settingFragment_to_aboutFragment"
+        app:destination="@id/aboutFragment" />
+    </fragment>
+
     <activity
         android:id="@+id/activityLogin"
         android:name="com.example.tenunaraapplication.login.ActivityLogin"
@@ -112,4 +141,14 @@
         android:name="com.example.tenunaraapplication.main.ui.ui.camera.CameraActivity"
         android:label="activity_camera"
         tools:layout="@layout/activity_camera" />
+    <fragment
+    android:id="@+id/aboutFragment"
+    android:name="com.example.tenunaraapplication.main.ui.ui.about.AboutFragment"
+    android:label="fragment_about"
+    tools:layout="@layout/fragment_about" >
+    <action
+       android:id="@+id/action_aboutFragment_to_settingFragment"
+       app:destination="@id/settingFragment" />
+    </fragment>
+
 </navigation>

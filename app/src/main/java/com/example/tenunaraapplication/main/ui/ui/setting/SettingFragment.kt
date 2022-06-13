@@ -2,16 +2,13 @@ package com.example.tenunaraapplication.main.ui.ui.setting
 
 import android.content.Intent
 import android.os.Bundle
+import android.provider.Settings
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.navigation.Navigation
-import androidx.navigation.findNavController
-import com.example.tenunaraapplication.R
-import com.example.tenunaraapplication.databinding.FragmentHomeBinding
+import androidx.navigation.fragment.findNavController
 import com.example.tenunaraapplication.databinding.FragmentSettingBinding
-import com.example.tenunaraapplication.login.ActivityLogin
 
 class SettingFragment : Fragment() {
 
@@ -28,12 +25,28 @@ class SettingFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        return inflater.inflate(R.layout.fragment_setting, container, false)
+    ): View {
+        _binding = FragmentSettingBinding.inflate(inflater, container, false)
+
+        return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+        binding.btnBack.setOnClickListener {
+            findNavController().navigate(
+                SettingFragmentDirections.actionSettingFragmentToNavigationProfile())
+        }
+
+        binding.btnAbout.setOnClickListener {
+            findNavController().navigate(
+                SettingFragmentDirections.actionSettingFragmentToAboutFragment())
+        }
+
+        binding.btnLanguange.setOnClickListener {
+            startActivity(Intent(Settings.ACTION_LOCALE_SETTINGS))
+        }
 
     }
 
